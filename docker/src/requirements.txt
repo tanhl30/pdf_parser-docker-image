@@ -1,0 +1,4 @@
+pdfplumber
+boto3
+pymupdf
+parse
